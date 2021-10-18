@@ -9,7 +9,7 @@ If you need encryption, we reccomend [ghosttunnel](https://github.com/ghostunnel
 
 ## A Message
 
-A message is composed of a unsigned 32-bit `length`, and a `length` bytes message in BSON
+A message is composed of a unsigned big-endian 32-bit `length`, and a `length` bytes message in BSON
 
 ## The Protocol
 
