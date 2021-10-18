@@ -1,4 +1,4 @@
-# `MOTCP`: Messages Over TCP
+# `MOTCP`: Messages Over `TCP`
 
 
 ## About
